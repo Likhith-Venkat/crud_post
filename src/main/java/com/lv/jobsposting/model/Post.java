@@ -47,7 +47,7 @@ public class Post {
     }
 
     @Override
-    public String toString() {
+    public String  toString() {
         return "Post{" +
                 "profile='" + profile + '\'' +
                 ", desc='" + desc + '\'' +
